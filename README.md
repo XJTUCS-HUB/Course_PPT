@@ -36,4 +36,8 @@ courses/comp400505/slides/2025-秋-某教师/
 | COMP561705 | 软件工程 | `courses/comp561705/slides/` |
 | EELC400105 | 数字逻辑电路 I | `courses/eelc400105/slides/` |
 
+## 外部课程资源
+
+计算机系统导论的 PPT 也可前往 ICS 课程官网查看：[2025-2026 学年 ICS 课程官网](https://xjtu-ics.github.io/sp-2026/)。
+
 提交课件前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。课程清单暂与 XJTUCS Guide 的 `src/content/courses/` 保持一致。
